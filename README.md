@@ -24,5 +24,5 @@ This script will also inject a custom CSS class into the webpage to control the 
     <script src="scrollbar_v1_4-29-24.js.js"></script>
 </body>
 </html>
-
+```html
 I hope many will find this script useful in their projects, and I trust I won't be too heavily ridiculed for utilizing ChatGPT's in its development.
