@@ -7,6 +7,7 @@ Below is an example of how to use the <set-timer> element to do this. As for a l
 
 This script will also inject a custom CSS class into the webpage to control the scroll bar, so you need to ensure that you have no other CSS controlling the scroll bar with overflow-y or any other CSS classes with the name .no-scrollbar. The script will also sense if the user is on a mobile device and will not run the scroll bar functions to save processing power when it's not needed.
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
