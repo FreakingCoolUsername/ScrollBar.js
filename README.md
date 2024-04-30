@@ -22,7 +22,7 @@ I hope many will find this script useful in their projects, and I trust I won't 
     <!-- Your webpage content here -->
     
     <!-- Custom element for setting scroll timer -->
-    <scrolltimer sec="5"></scrolltimer>
+    <scroll-timer sec="5"></scroll-timer>
     <script src="scrollbar_v1_4-29-24.js"></script>
 </body>
 </html>
